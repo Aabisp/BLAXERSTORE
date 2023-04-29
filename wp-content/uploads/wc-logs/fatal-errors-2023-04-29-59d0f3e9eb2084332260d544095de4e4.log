@@ -1918,3 +1918,9 @@ Stack trace:
 #25 {main}
   thrown in C:\xampp\htdocs\BLAXERSTORE\wp-content\plugins\th-all-in-one-woo-cart\inc\taiowc-markup.php on line 44
 
+2023-04-29T11:48:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BLAXERSTORE\wp-includes\class-wpdb.php on line 2431
+
+2023-04-29T12:19:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BLAXERSTORE\wp-includes\class-wpdb.php on line 2431
+
+2023-04-29T12:19:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BLAXERSTORE\wp-includes\class-wpdb.php on line 2431
+
